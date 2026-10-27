@@ -1,0 +1,1 @@
+importScripts("https://jsdelivr.net");
